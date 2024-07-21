@@ -1,6 +1,5 @@
 package org.mesdag.revjs;
 
-import de.dafuqs.revelationary.ClientRevelationHolder;
 import de.dafuqs.revelationary.RevelationRegistry;
 import dev.latvian.mods.kubejs.KubeJSPlugin;
 import dev.latvian.mods.kubejs.registry.RegistryInfo;
